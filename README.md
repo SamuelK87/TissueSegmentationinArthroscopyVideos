@@ -8,4 +8,6 @@ direct visual contact with the surgical site and have limited intra-operative im
 feedback. Computer vision methods as well as segmentation and tracking of the tissues and tools in the video
 frames, are increasingly being adopted to MIS to alleviate such limitations. So far, most of the advances in
 MIS have been focused on laparoscopic applications, with scarce literature on knee arthroscopy.It is a  method 
-for the automatic segmentation of ACL tissue structures for knee arthroscopy.
+for the automatic segmentation of ACL tissue structures for knee arthroscopy.  
+
+I have used a dataset of 97 labeled images of ACL trained an image segmentation model using DETECTRON2.
